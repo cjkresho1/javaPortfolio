@@ -1,0 +1,12 @@
+false
+Billy J. Thornton, 176,Bob E. Evans, 172,Joe Cocker, 80
+false
+Jimi Hendrix, 155, Slash, 160
+true 
+kid1, 100, kid2, 101, kid3, 102
+true
+Albert King, 150, Muddy Waters, 160, James Hetfield, 130, Bruce Lee, 140, Shubham, 85, sis1, 100, sis2, 140
+true
+Nikola Tesla, 150, BB King, 160, David Gilmour, 170, Marty Friedman, 140, Dave Mustaine, 85, Alex Skolnick, 100, Chuck Billy, 140
+false
+David Wilson, 176, Angus Young, 72,Malcolm Young, 180

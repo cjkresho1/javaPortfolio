@@ -1,0 +1,14 @@
+true
+Mike Portnoy, 176, Bob John Petrucci, 172,Joe Cocker, 80
+false
+Bob Marley, 155, Slash, 160
+true 
+Carlos Santana, 100, kid2, 101, kid3, 102
+false
+Gregory Issacs, 150, James Hetfield, 130, Bruce Lee, 140, Shubham, 85, sis1, 100, sis2, 140
+false
+Nikola Tesla, 150, BB King, 160, David Gilmour, 170, Marty Friedman, 140, Dave Mustaine, 85, Alex Skolnick, 100
+true
+David Wilson, 176, Angus Young, 72, Malcolm Young, 180
+true
+Bernie Sanders, 176, Abraham Lincoln, 72, Malcolm Young, 180
